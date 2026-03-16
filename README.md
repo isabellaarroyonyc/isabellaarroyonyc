@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**isabellaarroyonyc/isabellaarroyonyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Replies to GitHub's suggested basics: 
 
 - 🔭 I’m currently working on ... Power BI Dashboards for Beverage Industry Volume Insights
 - 🌱 I’m currently learning ... VBA Macros and RAG
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Wine
 - 📫 How to reach me: ... isabellaarroyonyc@gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... Certified Sommelier since 2023 
--->
+- ⚡ Fun fact: ... Certified Sommelier since 2023
